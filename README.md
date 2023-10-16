@@ -1,3 +1,27 @@
+# THE SOUP FAN
+The Soup Fan is....
+
+Am i responsive here
+
+## UX
+
+### Project Goals
+The primary goal of The Soup Fan is...
+
+
+#### User Goals
+* To find out information about GENER8 GYM quickly and easily
+* Interact with the website in an intuitive manner
+* To identify with the modern appeal and layout of the website
+* To easily operate the website on all devices 
+
+#### Business Goals
+* To 
+* To
+* 
+
+## Initial Wireframes
+Desktop And Tablet View
 <img width="1193" alt="Screenshot 2023-10-16 at 21 16 48" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/40ce0a94-0b57-4242-b3a5-a8f884fd2bca">
 <img width="1203" alt="Screenshot 2023-10-16 at 21 17 02" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/e6cfdfb2-edce-429c-a143-a549cb3d3257">
 <img width="1191" alt="Screenshot 2023-10-16 at 21 17 11" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/317360ce-03fc-4226-b8a6-7f19b1c634bb">
@@ -10,7 +34,7 @@
 <img width="1193" alt="Screenshot 2023-10-16 at 21 18 46" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/c1086cbe-4b19-44de-84de-bcb2cc2c9de0">
 <img width="1196" alt="Screenshot 2023-10-16 at 21 18 56" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/7e30e44c-bea9-4f0e-937a-e99f96ae3b38">
 
-
+Mobile View
 <img width="1114" alt="Screenshot 2023-10-16 at 21 24 21" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/a6609706-5f50-4da3-97f5-ffefb14f547b">
 <img width="1175" alt="Screenshot 2023-10-16 at 21 24 11" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/9ff50969-7d0e-42b2-a8bc-c4d9189aca46">
 <img width="1166" alt="Screenshot 2023-10-16 at 21 24 03" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/08650ffd-36d8-44cd-afab-c5c02ca29e38">
