@@ -47,7 +47,7 @@ Mobile View
 <img width="1183" alt="Screenshot 2023-10-16 at 21 23 05" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/7af15608-3fc5-445a-b39b-b6deefcbee13">
 <img width="1181" alt="Screenshot 2023-10-16 at 21 22 51" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/8b0e189b-9b94-43f2-b089-bd27e542b5a2">
 
-#### User Stories
+## User Stories
 <img width="870" alt="Screenshot 2023-10-17 at 18 03 08" src="https://github.com/elliotjonesdev/the_soup_fan/assets/119816371/9e14f10b-369a-4751-8431-c0c04571e404">
 
 
